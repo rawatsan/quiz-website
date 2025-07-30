@@ -1,0 +1,21 @@
+Category,Question,Option_A,Option_B,Option_C,Option_D,Correct_Answer
+Inventory Management,What does FIFO stand for in inventory management?,First In, First Out,Fast Inventory Flow Operation,Final Input, Final Output,Fixed Inventory Forecasting Option,A
+Inventory Management,What is the purpose of cycle counting?,Replace all inventory,Verify inventory accuracy regularly,Automate stock replenishment,Redesign warehouse layout,B
+Inventory Management,Which inventory method prioritizes high-value items?,LIFO,ABC analysis,JIT,EOQ,B
+Inventory Management,What happens if inventory records are inaccurate?,Improved picking speed,Stockouts or overstocking,Reduced warehouse costs,Simplified audits,B
+Inventory Management,What is a stock-keeping unit (SKU)?,A type of forklift,A unique identifier for inventory items,A warehouse zoning system,A shipping document,B
+Inventory Management,What is the goal of inventory management?,Increase storage costs,Ensure optimal stock levels,Reduce employee training,Simplify warehouse layout,B
+Inventory Management,What does LIFO stand for?,Last In, First Out,Low Inventory Flow Operation,Latest Input, Final Output,Long Inventory Forecasting Option,A
+Inventory Management,What is Just-In-Time (JIT) inventory?,Storing large stock quantities,Ordering stock as needed,Automating all processes,Auditing inventory daily,B
+Inventory Management,What is a benefit of ABC analysis?,Equal focus on all items,Prioritizes high-value items,Increases storage needs,Reduces employee shifts,B
+Inventory Management,What is the purpose of a safety stock?,Eliminate all inventory,Buffer against stockouts,Speed up picking,Simplify audits,B
+Inventory Management,What is an inventory audit?,Packing orders,Verifying stock accuracy,Operating forklifts,Designing layouts,B
+Inventory Management,Which tool tracks inventory movement?,Forklift,Barcode scanner,Conveyor belt,Packing station,B
+Inventory Management,What is a stockout?,Excess inventory,Running out of stock,Overstaffing,Damaged goods,B
+Inventory Management,What does EOQ stand for?,Efficient Order Quantity,Economic Order Quantity,Effective Operations Queue,External Order Quality,B
+Inventory Management,Why is inventory accuracy important?,Increases storage needs,Prevents order delays,Reduces lighting costs,Simplifies employee training,B
+Inventory Management,What is a perpetual inventory system?,Manual stock counting,Real-time stock tracking,Annual audits,Random stock checks,B
+Inventory Management,What is the role of a reorder point?,Trigger new stock orders,Design warehouse layout,Pack customer orders,Audit equipment,B
+Inventory Management,What is a benefit of FIFO?,Reduces expired goods,Increases storage costs,Simplifies audits,Reduces picking speed,A
+Inventory Management,What is inventory turnover?,Employee performance,How quickly inventory is sold,Warehouse size,Customer complaints,B
+Inventory Management,What does a high inventory turnover indicate?,Slow sales,Efficient stock movement,Overstocking,Low demand,B

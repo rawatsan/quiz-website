@@ -1,0 +1,21 @@
+Category,Question,Option_A,Option_B,Option_C,Option_D,Correct_Answer
+Order Fulfillment,What is a key metric for order fulfillment?,Warehouse size,Order accuracy rate,Employee headcount,Number of forklifts,B
+Order Fulfillment,What improves order fulfillment speed?,Increasing inventory,Efficient picking processes,Reducing audits,Manual packing,B
+Order Fulfillment,What is batch picking?,Picking one order,Picking multiple orders together,Auditing inventory,Receiving goods,B
+Order Fulfillment,Why is packing important in order fulfillment?,Increases storage,Ensures product safety during shipping,Simplifies audits,Reduces inventory,B
+Order Fulfillment,What delays order fulfillment?,Accurate inventory,Stockouts,LED lighting,Clear signage,B
+Order Fulfillment,What is the purpose of order verification?,Increase inventory,Ensure order accuracy,Reduce storage,Simplify audits,B
+Order Fulfillment,What is a picking list?,Employee schedule,List of items to pick,Supplier contract,Audit report,B
+Order Fulfillment,What is wave picking?,Picking all orders at once,Picking in scheduled waves,Manual counting,Random storage,B
+Order Fulfillment,Why is a packing slip included with orders?,Tracks employees,Confirms order contents,Audits stock,Designs layouts,B
+Order Fulfillment,What does a high order accuracy rate indicate?,More errors,Fewer errors,Slower shipping,Larger inventory,B
+Order Fulfillment,What is a benefit of zone picking?,Slower picking,Reduced travel time,Increased inventory,Manual audits,B
+Order Fulfillment,What does order fulfillment cycle time measure?,Warehouse cleaning,Time to process an order,Employee training,Inventory audit time,B
+Order Fulfillment,Why is a Warehouse Management System used in order fulfillment?,Manual picking,Optimizes order processing,Reduces staff,Increases inventory,B
+Order Fulfillment,What is the role of a shipping label?,Track inventory,Provide delivery instructions,Count stock,Train staff,B
+Order Fulfillment,What causes order fulfillment errors?,Accurate picking,Incorrect labeling,Optimized routes,Clear signage,B
+Order Fulfillment,What is a benefit of automated picking systems?,Higher errors,Increased efficiency,Reduced accuracy,Manual processes,B
+Order Fulfillment,Why is timely order fulfillment important?,Increases costs,Meets customer expectations,Reduces storage,Simplifies audits,B
+Order Fulfillment,What does a fulfillment center specialize in?,Inventory auditing,Processing and shipping orders,Employee training,Warehouse design,B
+Order Fulfillment,What is a common challenge in order fulfillment?,Clear signage,Inventory shortages,Proper lighting,Organized racks,B
+Order Fulfillment,What does order consolidation involve?,Counting stock,Combining multiple orders,Designing layouts,Auditing equipment,B

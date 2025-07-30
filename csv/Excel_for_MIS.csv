@@ -1,0 +1,21 @@
+Category,Question,Option_A,Option_B,Option_C,Option_D,Correct_Answer
+Excel for MIS,Which Excel function totals inventory for a specific category?,VLOOKUP,SUMIFS,COUNTIF,AVERAGE,B
+Excel for MIS,How do you create a pivot table in Excel?,Insert > Chart > Pivot,Insert > Pivot Table > Create,Home > Summarize > Table,View > Pivot > Insert,B
+Excel for MIS,What does conditional formatting do in an inventory sheet?,Sorts data alphabetically,Highlights cells based on rules,Creates charts automatically,Merges multiple sheets,B
+Excel for MIS,Which function looks up an SKU in another table?,SUMIF,VLOOKUP,COUNT,MAX,B
+Excel for MIS,How do you calculate inventory turnover in Excel?,Total Sales / Average Inventory,Cost of Goods Sold / Average Inventory,Total Stock * Sales,Average Inventory - Sales,B
+Excel for MIS,What does the VLOOKUP function do in an inventory sheet?,Counts items,Looks up a value based on a key,Sorts data,Creates charts,B
+Excel for MIS,Which feature restricts data entry to specific formats?,Conditional Formatting,Data Validation,Pivot Table,Goal Seek,B
+Excel for MIS,How do you calculate total inventory cost?,Quantity + Unit Price,Quantity * Unit Price,Quantity / Unit Price,Quantity - Unit Price,B
+Excel for MIS,What is the benefit of a named range in Excel?,Speeds up chart creation,Simplifies formula readability,Automates sorting,Protects worksheets,B
+Excel for MIS,Which function checks if an SKU exists in another sheet?,MATCH,SUMIF,COUNT,AVERAGEIF,A
+Excel for MIS,How can you create a dashboard to monitor KPIs?,Use pivot tables and charts,Use conditional formatting only,Use data validation,Use macros to sort,A
+Excel for MIS,What does the HLOOKUP function do?,Looks up values horizontally,Counts items,Summarizes data,Formats cells,A
+Excel for MIS,Which feature automates repetitive tasks like updating stock?,Pivot Table,Macros,Filters,Charts,B
+Excel for MIS,What is the purpose of Goal Seek in Excel?,Create charts,Find input for a specific output,Sort data,Merge datasets,B
+Excel for MIS,Which function combines text from multiple cells?,CONCATENATE,SUM,IF,LOOKUP,A
+Excel for MIS,How do you filter items from a specific warehouse?,Home > Sort > Filter,Data > Filter > Apply,Insert > Filter > Select,View > Filter > Customize,B
+Excel for MIS,Which function finds the maximum stock level?,MAX,MIN,SUM,AVERAGE,A
+Excel for MIS,What is a pivot table used for in MIS?,Automate data entry,Summarize and analyze data,Protect data,Merge sheets,B
+Excel for MIS,How do you visualize monthly warehouse throughput?,Data > Chart > Insert,Insert > Chart > Select Data,Home > Visualize > Chart,View > Chart > Create,B
+Excel for MIS,What does the IF function do in an inventory sheet?,Combines text,Returns value based on condition,Sorts data,Creates charts,B
